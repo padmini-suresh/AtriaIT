@@ -1,0 +1,2 @@
+module classandobject_1 {
+}
